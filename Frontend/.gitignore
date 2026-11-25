@@ -11,3 +11,6 @@
 # Ignore .txt files
 *.txt
 .
+.env
+.env.*
+!.env.example
